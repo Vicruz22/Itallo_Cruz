@@ -1,2 +1,60 @@
 # Itallo_Cruz
-# 👩🏻‍💻 Larissa Kich**`Desenvolvedora FullStack`**Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".<p align="left">    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">        <img             alt="youtube subscribers"             title="Inscreva-se no meu canal"             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscritos&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"        />    </a>    <a href="https://www.youtube.com/@larissakich">@@ -155,7 +155,7 @@<br/><br/>### 🤖 Estatísticas### 📊 Estatísticas<p>  <img 
+# 👋 Olá, eu sou Itallo Vinicius
+
+🎯 Em transição de carreira para a área de Tecnologia, com foco em **Análise de Dados**.
+
+Sou formado em **Contabilidade** e **Gestão Financeira** e atualmente curso **Análise e Desenvolvimento de Sistemas**. Busco unir minha experiência na área financeira com tecnologia para transformar dados em informações que apoiem a tomada de decisões.
+
+---
+
+## 🚀 Sobre mim
+
+* 📊 Apaixonado por Dados e Business Intelligence
+* 🎓 Graduado em Contabilidade e Gestão Financeira
+* 💻 Estudando Análise e Desenvolvimento de Sistemas
+* 📚 Aprendendo SQL, Python e Power BI
+* 🎯 Objetivo: atuar como Analista de Dados
+
+---
+
+## 🛠️ Tecnologias que estou estudando
+
+* Python
+* SQL
+* Power BI
+* Excel Avançado
+* Git e GitHub
+* HTML e CSS
+
+---
+
+## 📂 Projetos
+
+Aqui você encontrará projetos relacionados a:
+
+* 📈 Análise de Dados
+* 📊 Dashboards em Power BI
+* 🐍 Automação com Python
+* 🗄️ Banco de Dados SQL
+* 📑 Estudos e desafios de programação
+
+---
+
+## 📚 Atualmente estudando
+
+* Manipulação de dados com Python
+* Consultas SQL
+* Power BI e DAX
+* Estatística para Análise de Dados
+* Git e GitHub
+
+---
+
+## 📫 Contato
+
+* LinkedIn: *(adicione seu link)*
+* E-mail: *(adicione seu e-mail)*
+
+---
+
+⭐ Seja bem-vindo ao meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução na área de tecnologia.

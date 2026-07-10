@@ -7,7 +7,7 @@ Sou formado em **Contabilidade** e **Gestão Financeira** e atualmente curso **A
 
 ---
 
-###### 🚀 Sobre mim
+## 🚀 Sobre mim
 
 * 📊 Apaixonado por Dados e Business Intelligence
 * 🎓 Graduado em Contabilidade e Gestão Financeira
